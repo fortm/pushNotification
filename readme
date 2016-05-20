@@ -1,0 +1,9 @@
+readme
+#########
+this will send push notifications via chrome
+
+sudo npm install grunt-cli -g
+
+
+https://codeforgeek.com/2015/09/real-time-notification-system-using-socket-io/
+https://github.com/codeforgeek/socket-notification/
